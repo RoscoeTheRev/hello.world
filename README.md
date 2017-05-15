@@ -1,2 +1,2 @@
 # hello.world
-just a learning time
+Just an IT Guy learning how to do some basic programming. 
